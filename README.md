@@ -1,0 +1,2 @@
+# agent-b53e50e2
+Auto-created workspace for Rose Labs agent
